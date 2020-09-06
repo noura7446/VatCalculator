@@ -1,5 +1,5 @@
 
-'''
+
 #vat calculator
 vat=input("VAT without %:")
 vat=float(vat)
